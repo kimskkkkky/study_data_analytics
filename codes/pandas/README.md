@@ -1,0 +1,1 @@
+[쥬피터랩을 vs 코드로 변경] (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html)
